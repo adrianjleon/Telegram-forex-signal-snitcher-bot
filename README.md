@@ -1,11 +1,6 @@
 # Telegram forex signal snitcher bot
 
 
-
-**snitcher bot** es una app diseñada en Python que posee un detector de mensajes con parametros especificos en Telegram y que posteriormente es # Telegram forex signal snitcher bot
-
-
-
 **snitcher bot** es una app diseñada en Python que posee un detector de mensajes con parametros especificos en Telegram y que posteriormente es enviado a otro destinatario 
 
 
