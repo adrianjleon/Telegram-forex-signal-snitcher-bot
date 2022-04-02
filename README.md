@@ -7,6 +7,7 @@
 
 ## Capturas de grupos con mensajes
 ![](https://i.postimg.cc/F1h7gQkK/Whats-App-Image-2022-04-02-at-1-57-09-PM.jpg) 
+Nota: Por politicas del grupo no se permite captura original.
 
 [![Whats-App-Image-2022-04-02-at-1-59-11-PM.jpg](https://i.postimg.cc/yYC9YMdt/Whats-App-Image-2022-04-02-at-1-59-11-PM.jpg)](https://postimg.cc/qgQg1Z2x)
 
