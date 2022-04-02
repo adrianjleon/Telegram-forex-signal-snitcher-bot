@@ -1,0 +1,11 @@
+images/
+test*
+__pycache__/*
+.idea/*
+settings.py
+t.txt
+tes.*
+.idea/
+channels_ids.py
+activate.bat
+start.bat
